@@ -3,6 +3,7 @@
 🚀 Updated Version Available! 🚀
 This repository contains the first version of the ESP32 Custom Board.
 A new refined version with improved power management and UART communication
+https://mud-barge-6df.notion.site/ESP32-Microcontroller-1977578929b6800c9e9beba360cbae37
 # 📜 Components You'll Need for Your Custom ESP32 Board
 
 Here are the essential components for designing your custom ESP32 board, along with their roles and key points.
